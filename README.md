@@ -6,12 +6,12 @@ Procedure & Screenshots
 ======
 The .csv file we are working with contains 397 rows and 5 columns. We are going to read in the data using the Path library and display some rows.
 
-![alt text](https://github.com/Gsilvera24/Data_Visualization/blob/main/images/real_one.png "VS CODE")
+![alt text](https://github.com/Gsilvera24/Data-Visualization/blob/main/screenshots/real_one.png "VS CODE")
 
 Next, using the group by function we will aggregate the data by year and obtain the average. 
 
-![alt text](https://github.com/Gsilvera24/Data_Visualization/blob/main/images/real_two.png "VS CODE")
+![alt text](https://github.com/Gsilvera24/Data-Visualization/blob/main/screenshots/real_two.png "VS CODE")
 
 Once the data is aggregated in this maner we will simply call an Hvplot function to create a bar chart displaying average rent per year during the lenght of the data provided.
 
-![alt text](https://github.com/Gsilvera24/Data_Visualization/blob/main/images/real_three.png "VS CODE")
+![alt text](https://github.com/Gsilvera24/Data-Visualization/blob/main/screenshots/real_three.png "VS CODE")
